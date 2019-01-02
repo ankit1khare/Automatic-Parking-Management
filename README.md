@@ -1,5 +1,5 @@
-# ComputerVision
-Computer Vision codes
+### Automatic parking management 
+
 1. Training folder is actually a automatic utility which has been modified by me for using the images in the 'Train' folder
 and applying HAAR classsfier on them.
 
