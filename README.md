@@ -1,10 +1,8 @@
 ### Automatic parking management 
 
-1. Training folder is actually a automatic utility which has been modified by me for using the images in the 'Train' folder
-and applying HAAR classsfier on them.
+1. Images in Train folder can be utilized with the script I wrote for training a HAAR based classifier for all the images in the train folder.
 
-2. Video presentation has been attached which can also be found on youtube, "https://www.youtube.com/watch?v=y1M5dNkvCJc". It explains the 
-high-level functionality of code.
+2. For a step-by-step explanation, [youtube video](https://www.youtube.com/watch?v=y1M5dNkvCJc) can be referred. It explains the approach and also the high-level functionality of code.
 
-3. Ipython Notebook should be treated as the 'main' program which calls all the other module.
+3. Ipython Notebook should be treated as the 'main' program which calls uses all the other modules.
 
